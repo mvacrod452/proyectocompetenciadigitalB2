@@ -1,0 +1,2019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260514183624A1XUD8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260514183624HU7NKK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Aprendemos las redes tróficas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>M.ª Ángeles Vacas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778776574215</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp5pk8rr-j08zzoy2r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8rr-j08zzoy2r</odePageId>
+      <odeBlockId>block-1778575499907-ivgu1z2cc</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8rr-j08zzoy2r</odePageId>
+          <odeBlockId>block-1778575499907-ivgu1z2cc</odeBlockId>
+          <odeIdeviceId>idevice-1778575499904-et4gmyo5m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto está dirigido al alumnado de Educación Secundaria Obligatoria (ESO), concretamente a <strong>1º ESO.</strong></p>
+<p><strong>Temporalización</strong>: 4 sesiones aproximadamente.</p>
+<p><strong>Materia</strong>: Biología y geología.</p>
+<p>De <em>forma transversal:</em></p>
+<p>Competencia digital<br />Lengua (expresión oral y escrita)</p>
+<p><strong>Descripción</strong>: El objetivo principal es que el alumnado comprenda el funcionamiento de las redes tróficas mediante una metodología activa y participativa. </p>
+<p> A través del trabajo en grupo y el uso de herramientas digitales, los estudiantes:</p>
+<p>Identificarán productores, consumidores y descomponedores.<br />Analizarán las relaciones entre los distintos niveles tróficos.<br />Analizarán las relaciones entre los distintos niveles tróficos.<br />Desarrollarán habilidades de trabajo cooperativo.<br />Mejorarán su competencia digital.<br /></p>
+<p>Se pretende fomentar un aprendizaje significativo, donde el alumnado construya su propio conocimiento mediante la experimentación, la interacción y la reflexión.</p>
+<figure class="exe-figure position-center" style="width: 629px;"><img src="{{context_path}}/content/resources/Cadena_trófica.png" width="629" height="450" alt="" />
+<figcaption class="figcaption"><span class="author">Wikimedia commons</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778575499904-et4gmyo5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto está dirigido al alumnado de Educación Secundaria Obligatoria (ESO), concretamente a <strong>1º ESO.</strong></p>\n<p><strong>Temporalización</strong>: 4 sesiones aproximadamente.</p>\n<p><strong>Materia</strong>: Biología y geología.</p>\n<p>De <em>forma transversal:</em></p>\n<p>Competencia digital<br />Lengua (expresión oral y escrita)</p>\n<p><strong>Descripción</strong>: El objetivo principal es que el alumnado comprenda el funcionamiento de las redes tróficas mediante una metodología activa y participativa. </p>\n<p> A través del trabajo en grupo y el uso de herramientas digitales, los estudiantes:</p>\n<p>Identificarán productores, consumidores y descomponedores.<br />Analizarán las relaciones entre los distintos niveles tróficos.<br />Analizarán las relaciones entre los distintos niveles tróficos.<br />Desarrollarán habilidades de trabajo cooperativo.<br />Mejorarán su competencia digital.<br /></p>\n<p>Se pretende fomentar un aprendizaje significativo, donde el alumnado construya su propio conocimiento mediante la experimentación, la interacción y la reflexión.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 629px;\"><img src=\"{{context_path}}/content/resources/Cadena_trófica.png\" width=\"629\" height=\"450\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Wikimedia commons</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5pk8rr-j08zzoy2r</odePageId>
+      <odeBlockId>block-1778747045007-4vhfpct96</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8rr-j08zzoy2r</odePageId>
+          <odeBlockId>block-1778747045007-4vhfpct96</odeBlockId>
+          <odeIdeviceId>idevice-1778747045005-4cz2q615m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHGQxmwn_Y/cqJ_a2k31-rkKRp4v-Km1w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHGQxmwn_Y/cqJ_a2k31-rkKRp4v-Km1w/view?utm_content=DAHGQxmwn_Y&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">2.1. Proyecto</a> de maria angeles Vacas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778747045005-4cz2q615m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHGQxmwn_Y/cqJ_a2k31-rkKRp4v-Km1w/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHGQxmwn_Y/cqJ_a2k31-rkKRp4v-Km1w/view?utm_content=DAHGQxmwn_Y&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">2.1. Proyecto</a> de maria angeles Vacas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8ry-794g25w00</odePageId>
+  <odeParentPageId>page-mp5pk8rr-j08zzoy2r</odeParentPageId>
+  <pageName>Objetivos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8ry-794g25w00</odePageId>
+      <odeBlockId>block-1778582981574-1uup393y3</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8ry-794g25w00</odePageId>
+          <odeBlockId>block-1778582981574-1uup393y3</odeBlockId>
+          <odeIdeviceId>idevice-1778582981570-8fjtnerex</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Estudio de las redes tróficas.<br /> </li>
+<li>Relaciones entre los seres vivos en un ecosistema.<br /> </li>
+<li>Importancia del equilibrio ecológico</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778582981570-8fjtnerex","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Estudio de las redes tróficas.<br /> </li>\n<li>Relaciones entre los seres vivos en un ecosistema.<br /> </li>\n<li>Importancia del equilibrio ecológico</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8rz-wrjtfg0y7</odePageId>
+  <odeParentPageId>page-mp5pk8rr-j08zzoy2r</odeParentPageId>
+  <pageName>Antes de comenzar por tu seguridad</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de comenzar por tu seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de comenzar por tu seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8rz-wrjtfg0y7</odePageId>
+      <odeBlockId>block-1778617596099-cxxqmh0wq</odeBlockId>
+      <blockName>Ciberseguridad</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8rz-wrjtfg0y7</odePageId>
+          <odeBlockId>block-1778617596099-cxxqmh0wq</odeBlockId>
+          <odeIdeviceId>idevice-1778617596097-mq5es9g0g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHGTQB7lbw/OcMe3LOVTurnC4hTIBc8Ug/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHGTQB7lbw/OcMe3LOVTurnC4hTIBc8Ug/view?utm_content=DAHGTQB7lbw&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Colorful Modern Cybersecurity Facts Infographic</a> de maria angeles Vacas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778617596097-mq5es9g0g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHGTQB7lbw/OcMe3LOVTurnC4hTIBc8Ug/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHGTQB7lbw/OcMe3LOVTurnC4hTIBc8Ug/view?utm_content=DAHGTQB7lbw&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Colorful Modern Cybersecurity Facts Infographic</a> de maria angeles Vacas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s0-mlt861e84</odePageId>
+  <odeParentPageId>page-mp5pk8rr-j08zzoy2r</odeParentPageId>
+  <pageName>Material</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s0-mlt861e84</odePageId>
+      <odeBlockId>block-1778587794877-z96nn6xmh</odeBlockId>
+      <blockName>Curación de contenido</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s0-mlt861e84</odePageId>
+          <odeBlockId>block-1778587794877-z96nn6xmh</odeBlockId>
+          <odeIdeviceId>idevice-1778587794872-q6gli0ocr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/24rvieuwu9db9yta" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778587794872-q6gli0ocr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/24rvieuwu9db9yta\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s0-mlt861e84</odePageId>
+      <odeBlockId>block-1778747957157-a29uzm63s</odeBlockId>
+      <blockName>Herramientas para elaborar el producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s0-mlt861e84</odePageId>
+          <odeBlockId>block-1778747957157-a29uzm63s</odeBlockId>
+          <odeIdeviceId>idevice-1778747957153-hbwqje01f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La herramienta propuesta para trabajar es Genially aunque también pueden utilizar Canva. El producto final se encuentra al final de la Situación de Aprendizaje, como evidencia global que integra los saberes adquiridos sobre ecosistemas y redes tróficas para un grupo de 1º ESO. </p>
+<p> Los alumnos deberán de crear presentaciones o imágenes interactivas donde se pueda “hacer clic” en cada organismo para ver información.<br /></p>
+<p><strong>Objetivo</strong>:</p>
+<p>Añadir interactividad al producto final.<br />Favorecer la explicación oral apoyada en recursos digitales.<br /></p>
+<p><strong>Justificación:</strong></p>
+<p>Aumenta la motivación del alumnado.<br />Permite integrar texto, imágenes y pequeños cuestionarios.<br />Nivel de dificultad medio, adecuado para 1.º ESO con algo de acompañamiento docente.<br />Muy útil para exposiciones en clase.<br /></p>
+<p>Hemos elegido esta herramienta por los siguientes motivos: </p>
+<p>Versatilidad: permiten combinar texto, imágenes, esquemas e interactividad.<br />Accesibilidad: funcionan online y no requieren instalación, lo que se adapta a la mayoría de centros.<br />Edad del alumnado: interfaces visuales, intuitivas y motivadoras para 1.º ESO.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778747957153-hbwqje01f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La herramienta propuesta para trabajar es Genially aunque también pueden utilizar Canva. El producto final se encuentra al final de la Situación de Aprendizaje, como evidencia global que integra los saberes adquiridos sobre ecosistemas y redes tróficas para un grupo de 1º ESO. </p>\n<p> Los alumnos deberán de crear presentaciones o imágenes interactivas donde se pueda “hacer clic” en cada organismo para ver información.<br /></p>\n<p><strong>Objetivo</strong>:</p>\n<p>Añadir interactividad al producto final.<br />Favorecer la explicación oral apoyada en recursos digitales.<br /></p>\n<p><strong>Justificación:</strong></p>\n<p>Aumenta la motivación del alumnado.<br />Permite integrar texto, imágenes y pequeños cuestionarios.<br />Nivel de dificultad medio, adecuado para 1.º ESO con algo de acompañamiento docente.<br />Muy útil para exposiciones en clase.<br /></p>\n<p>Hemos elegido esta herramienta por los siguientes motivos: </p>\n<p>Versatilidad: permiten combinar texto, imágenes, esquemas e interactividad.<br />Accesibilidad: funcionan online y no requieren instalación, lo que se adapta a la mayoría de centros.<br />Edad del alumnado: interfaces visuales, intuitivas y motivadoras para 1.º ESO.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s0-mlt861e84</odePageId>
+      <odeBlockId>block-1778748818019-68wlg5u69</odeBlockId>
+      <blockName>Herramienta para docentes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s0-mlt861e84</odePageId>
+          <odeBlockId>block-1778748818019-68wlg5u69</odeBlockId>
+          <odeIdeviceId>idevice-1778748818016-4jgpw2f8x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAABSWwQX4AA41_0czXWw==" title="Symbaloo" target="_blank" rel="noopener">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778748818016-4jgpw2f8x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAABSWwQX4AA41_0czXWw==\" title=\"Symbaloo\" target=\"_blank\" rel=\"noopener\">Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s1-9li3py6fo</odePageId>
+  <odeParentPageId>page-mp5pk8rr-j08zzoy2r</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s1-9li3py6fo</odePageId>
+      <odeBlockId>block-1778618110494-93yipmy7x</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s1-9li3py6fo</odePageId>
+          <odeBlockId>block-1778618110494-93yipmy7x</odeBlockId>
+          <odeIdeviceId>idevice-1778618110493-29mkhun1i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf" title="Asociamos tareas a Criterios de evaluación.pdf" target="_blank" rel="noopener">Relacionamos tareas a Criterios de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778618110493-29mkhun1i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.pdf\" title=\"Asociamos tareas a Criterios de evaluación.pdf\" target=\"_blank\" rel=\"noopener\">Relacionamos tareas a Criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s2-1ik9z5f8i</odePageId>
+  <odeParentPageId>page-mp5pk8rr-j08zzoy2r</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s2-1ik9z5f8i</odePageId>
+      <odeBlockId>block-1778618569941-lgolpbxp4</odeBlockId>
+      <blockName>Organización de la tarea</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s2-1ik9z5f8i</odePageId>
+          <odeBlockId>block-1778618569941-lgolpbxp4</odeBlockId>
+          <odeIdeviceId>idevice-1778618569937-gaxubvh6p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://mm.tt/map/3988465676?t=UaoeAitFw8" title="Organización del proyecto">Mapa mental</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778618569937-gaxubvh6p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://mm.tt/map/3988465676?t=UaoeAitFw8\" title=\"Organización del proyecto\">Mapa mental</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s2-be9drpim8</odePageId>
+  <odeParentPageId>page-mp5pk8rr-j08zzoy2r</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s2-be9drpim8</odePageId>
+      <odeBlockId>block-1778619199305-ijz3ps3z9</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s2-be9drpim8</odePageId>
+          <odeBlockId>block-1778619199305-ijz3ps3z9</odeBlockId>
+          <odeIdeviceId>idevice-1778619199301-6w4eppv9m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del proyecto didáctico dirigido al alumnado, se pretende evaluar no solo la adquisición de contenidos conceptuales sobre las redes tróficas, sino también el desarrollo de competencias como el pensamiento crítico, la interpretación de datos y el trabajo colaborativo. Para ello, se emplearán los siguientes instrumentos de evaluación, diferentes, que permiten recoger información variada y complementaria del proceso de aprendizaje.</p>
+<p><strong>1. Rúbrica de evaluación del producto final</strong><br /></p>
+<p><a href="https://rubistar.4teachers.org/index.php?screen=CustomizeTemplatePrint&">https://rubistar.4teachers.org/index.php?screen=CustomizeTemplatePrint&</a></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-12 230255.jpg" width="696" height="678" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-12 230320.jpg" width="667" height="535" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p>Tratamiento de los datos:</p>
+<p>Se obtendrá una calificación global del producto final.<br />Se analizarán los resultados por criterios para detectar dificultades concretas (por ejemplo, si hay problemas generalizados en la interpretación de redes).<br />Estos datos servirán para ajustar futuras explicaciones o reforzar contenidos.<br /></p>
+<p>Con la rúbrica se permite identificar qué aspectos del aprendizaje han sido más complejos y mejorar la planificación didáctica. También favorece la autoevaluación si el alumnado la utiliza como referencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778619199301-6w4eppv9m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del proyecto didáctico dirigido al alumnado, se pretende evaluar no solo la adquisición de contenidos conceptuales sobre las redes tróficas, sino también el desarrollo de competencias como el pensamiento crítico, la interpretación de datos y el trabajo colaborativo. Para ello, se emplearán los siguientes instrumentos de evaluación, diferentes, que permiten recoger información variada y complementaria del proceso de aprendizaje.</p>\n<p><strong>1. Rúbrica de evaluación del producto final</strong><br /></p>\n<p><a href=\"https://rubistar.4teachers.org/index.php?screen=CustomizeTemplatePrint&\">https://rubistar.4teachers.org/index.php?screen=CustomizeTemplatePrint&</a></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-12 230255.jpg\" width=\"696\" height=\"678\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-12 230320.jpg\" width=\"667\" height=\"535\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p>Tratamiento de los datos:</p>\n<p>Se obtendrá una calificación global del producto final.<br />Se analizarán los resultados por criterios para detectar dificultades concretas (por ejemplo, si hay problemas generalizados en la interpretación de redes).<br />Estos datos servirán para ajustar futuras explicaciones o reforzar contenidos.<br /></p>\n<p>Con la rúbrica se permite identificar qué aspectos del aprendizaje han sido más complejos y mejorar la planificación didáctica. También favorece la autoevaluación si el alumnado la utiliza como referencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s2-be9drpim8</odePageId>
+      <odeBlockId>block-1778620252238-qgnr2bgui</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s2-be9drpim8</odePageId>
+          <odeBlockId>block-1778620252238-qgnr2bgui</odeBlockId>
+          <odeIdeviceId>idevice-1778620252237-twj4opaca</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>2. Cuestionario de evaluación (inicial y final)</strong></p>
+<p>Descripción del instrumento:<br />Se aplicará un cuestionario con preguntas de opción múltiple, verdadero/falso y respuestas abiertas breves sobre redes tróficas.</p>
+<p>¿Qué evalúa?</p>
+<p>Conocimientos previos (cuestionario inicial).<br />Aprendizaje adquirido tras el proyecto (cuestionario final).<br />Posibles ideas alternativas o errores conceptuales.<br /></p>
+<p>¿Cuándo se aplica?</p>
+<p>Al inicio del proyecto (evaluación diagnóstica).<br />Al final del proyecto (evaluación sumativa y comparativa).<br /></p>
+<p>¿Cómo se obtienen los datos?<br />Se recogerán las respuestas y se cuantificarán (porcentaje de aciertos, errores frecuentes, etc.).</p>
+<p>Tratamiento de los datos:</p>
+<p>Comparación entre resultados iniciales y finales para medir progreso.<br />Identificación de preguntas con mayor tasa de error para detectar conceptos mal comprendidos.<br /></p>
+<p>Análisis grupal e individual<br />Con esta herramienta se permite adaptar la enseñanza desde el inicio según el nivel del alumnado, facilitar la reflexión docente sobre la eficacia de la metodología utilizada y generar debate en clase sobre errores comunes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778620252237-twj4opaca","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>2. Cuestionario de evaluación (inicial y final)</strong></p>\n<p>Descripción del instrumento:<br />Se aplicará un cuestionario con preguntas de opción múltiple, verdadero/falso y respuestas abiertas breves sobre redes tróficas.</p>\n<p>¿Qué evalúa?</p>\n<p>Conocimientos previos (cuestionario inicial).<br />Aprendizaje adquirido tras el proyecto (cuestionario final).<br />Posibles ideas alternativas o errores conceptuales.<br /></p>\n<p>¿Cuándo se aplica?</p>\n<p>Al inicio del proyecto (evaluación diagnóstica).<br />Al final del proyecto (evaluación sumativa y comparativa).<br /></p>\n<p>¿Cómo se obtienen los datos?<br />Se recogerán las respuestas y se cuantificarán (porcentaje de aciertos, errores frecuentes, etc.).</p>\n<p>Tratamiento de los datos:</p>\n<p>Comparación entre resultados iniciales y finales para medir progreso.<br />Identificación de preguntas con mayor tasa de error para detectar conceptos mal comprendidos.<br /></p>\n<p>Análisis grupal e individual<br />Con esta herramienta se permite adaptar la enseñanza desde el inicio según el nivel del alumnado, facilitar la reflexión docente sobre la eficacia de la metodología utilizada y generar debate en clase sobre errores comunes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s2-be9drpim8</odePageId>
+      <odeBlockId>block-1778619973766-1sr256w3w</odeBlockId>
+      <blockName>Cuestionario</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s2-be9drpim8</odePageId>
+          <odeBlockId>block-1778619973766-1sr256w3w</odeBlockId>
+          <odeIdeviceId>idevice-1778619973765-7ul1gsmim</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="640" height="1917" src="https://docs.google.com/forms/d/e/1FAIpQLSdIAgffChO25HKUV_YVFihEjs0d1NxFfTqpq0CQ9yc4xoG5PA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778619973765-7ul1gsmim","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"640\" height=\"1917\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSdIAgffChO25HKUV_YVFihEjs0d1NxFfTqpq0CQ9yc4xoG5PA/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Cargando…</iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s3-qao3gag6t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESARROLLO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESARROLLO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESARROLLO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s4-h7n9510b7</odePageId>
+  <odeParentPageId>page-mp5pk8s3-qao3gag6t</odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s4-h7n9510b7</odePageId>
+      <odeBlockId>block-1778621881780-hm7e1cy2m</odeBlockId>
+      <blockName>Activación de ideas previas</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s4-h7n9510b7</odePageId>
+          <odeBlockId>block-1778621881780-hm7e1cy2m</odeBlockId>
+          <odeIdeviceId>idevice-1778621881778-pjzl0e0ww</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Propósito de la sesión</p>
+<p>Explorar los conocimientos previos del alumnado sobre los ecosistemas, las relaciones alimenticias y los seres vivos presentes en su entorno cercano.</p>
+<p><span style="text-decoration: underline;"> Desarrollo de la sesión</span><br />1. Inicio de la sesión (10 minutos)<br /></p>
+<p>Motivación inicial<br />El docente iniciará con preguntas generadoras:</p>
+<ul>
+<li>¿Qué animales conocen de su entorno?</li>
+<li>¿Qué plantas vemos cerca de casa o de la escuela?</li>
+<li>¿Todos los seres vivos necesitan alimentarse?</li>
+<li>¿Quién se come a quién en la naturaleza?</li>
+</ul>
+<p>2. Actividad principal: “¿Quién se come a quién?” (20 minutos)<br />Objetivo: Reconocer relaciones alimenticias simples entre seres vivos.</p>
+<p>Desarrollo: El docente presenta diferentes seres vivos (dibujos, tarjetas o imágenes)y el alumnado debe:</p>
+<p>Identificar qué come cada ser vivo.<br />Relacionarlos mediante flechas.<br />Construir cadenas alimenticias sencillas.<br /><br />3. Actividad de identificación del ecosistema cercano (15 minutos)<br />Objetivo: Reconocer animales y plantas del entorno próximo.</p>
+<p>Desarrollo: En gran grupo, el alumnado menciona animales que ha visto cerca de casa o escuela, plantas, árboles o flores conocidas, lugares donde viven esos seres vivos.</p>
+<p>La profesora registra las respuestas en una nube de palabras o mural digital usando la herramienta Mentimeter</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778621881778-pjzl0e0ww","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Propósito de la sesión</p>\n<p>Explorar los conocimientos previos del alumnado sobre los ecosistemas, las relaciones alimenticias y los seres vivos presentes en su entorno cercano.</p>\n<p><span style=\"text-decoration: underline;\"> Desarrollo de la sesión</span><br />1. Inicio de la sesión (10 minutos)<br /></p>\n<p>Motivación inicial<br />El docente iniciará con preguntas generadoras:</p>\n<ul>\n<li>¿Qué animales conocen de su entorno?</li>\n<li>¿Qué plantas vemos cerca de casa o de la escuela?</li>\n<li>¿Todos los seres vivos necesitan alimentarse?</li>\n<li>¿Quién se come a quién en la naturaleza?</li>\n</ul>\n<p>2. Actividad principal: “¿Quién se come a quién?” (20 minutos)<br />Objetivo: Reconocer relaciones alimenticias simples entre seres vivos.</p>\n<p>Desarrollo: El docente presenta diferentes seres vivos (dibujos, tarjetas o imágenes)y el alumnado debe:</p>\n<p>Identificar qué come cada ser vivo.<br />Relacionarlos mediante flechas.<br />Construir cadenas alimenticias sencillas.<br /><br />3. Actividad de identificación del ecosistema cercano (15 minutos)<br />Objetivo: Reconocer animales y plantas del entorno próximo.</p>\n<p>Desarrollo: En gran grupo, el alumnado menciona animales que ha visto cerca de casa o escuela, plantas, árboles o flores conocidas, lugares donde viven esos seres vivos.</p>\n<p>La profesora registra las respuestas en una nube de palabras o mural digital usando la herramienta Mentimeter</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s4-7fobdbgdz</odePageId>
+  <odeParentPageId>page-mp5pk8s3-qao3gag6t</odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s4-7fobdbgdz</odePageId>
+      <odeBlockId>block-1778622593621-lbdnxgif8</odeBlockId>
+      <blockName>Investigación guiada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s4-7fobdbgdz</odePageId>
+          <odeBlockId>block-1778622593621-lbdnxgif8</odeBlockId>
+          <odeIdeviceId>idevice-1778622593620-3wq10sbhe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="text-decoration: underline;">Desarrollo de la sesión</span></p>
+<p style="text-align: justify;">1. Inicio de la sesión (10 minutos)<br />El docente recuerda lo trabajado en la sesión anterior.</p>
+<p style="text-align: justify;">Hoy vais a trabajar como investigadores para descubrir cómo se organizan los seres vivos dentro de un ecosistema.</p>
+<p style="text-align: justify;"> 2. Presentación de contenidos (10 minutos)<br />El docente introduce los conceptos básicos </p>
+<p style="text-align: justify;">3. Actividad principal: Investigación guiada (25 minutos)<br />Objetivo: Buscar, seleccionar y organizar información sobre organismos y relaciones alimentarias.</p>
+<p style="text-align: justify;">Organización: Grupos cooperativos de 3 o 4 estudiantes.</p>
+<p style="text-align: justify;">Cada grupo recibe una temática o ecosistema: Bosque, río, desierto, mar, campo o selva<br /></p>
+<p style="text-align: justify;">Tarea del alumnado: investigar </p>
+<p style="text-align: justify;">A. Tipos de organismos<br />B. Relaciones alimentarias </p>
+<p style="text-align: justify;">El alumnado elaborará un documento colaborativo con:</p>
+<p style="text-align: justify;">Nombre del ecosistema.<br />Lista de organismos.<br />Clasificación de organismos.<br />Ejemplos de cadenas alimentarias.<br />Imágenes o dibujos.<br /> <br />4. Herramienta digital<br />Uso de Google Docs<br /></p>
+<p style="text-align: justify;">5. Acompañamiento docente<br />Durante la investigación el docente:</p>
+<p style="text-align: justify;">Orienta la búsqueda de información.<br />Resuelve dudas.<br />Ayuda a clasificar organismos.<br />Supervisa el trabajo cooperativo.<br /> <br />6. Espacio<br />Uso de ordenadores o tabletas con acceso a internet para la investigación colaborativa.</p>
+<p style="text-align: justify;"> 7. Cierre de la sesión (10 minutos)<br />Cada grupo comparte un descubrimiento importante<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778622593620-3wq10sbhe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"text-decoration: underline;\">Desarrollo de la sesión</span></p>\n<p style=\"text-align: justify;\">1. Inicio de la sesión (10 minutos)<br />El docente recuerda lo trabajado en la sesión anterior.</p>\n<p style=\"text-align: justify;\">Hoy vais a trabajar como investigadores para descubrir cómo se organizan los seres vivos dentro de un ecosistema.</p>\n<p style=\"text-align: justify;\"> 2. Presentación de contenidos (10 minutos)<br />El docente introduce los conceptos básicos </p>\n<p style=\"text-align: justify;\">3. Actividad principal: Investigación guiada (25 minutos)<br />Objetivo: Buscar, seleccionar y organizar información sobre organismos y relaciones alimentarias.</p>\n<p style=\"text-align: justify;\">Organización: Grupos cooperativos de 3 o 4 estudiantes.</p>\n<p style=\"text-align: justify;\">Cada grupo recibe una temática o ecosistema: Bosque, río, desierto, mar, campo o selva<br /></p>\n<p style=\"text-align: justify;\">Tarea del alumnado: investigar </p>\n<p style=\"text-align: justify;\">A. Tipos de organismos<br />B. Relaciones alimentarias </p>\n<p style=\"text-align: justify;\">El alumnado elaborará un documento colaborativo con:</p>\n<p style=\"text-align: justify;\">Nombre del ecosistema.<br />Lista de organismos.<br />Clasificación de organismos.<br />Ejemplos de cadenas alimentarias.<br />Imágenes o dibujos.<br /> <br />4. Herramienta digital<br />Uso de Google Docs<br /></p>\n<p style=\"text-align: justify;\">5. Acompañamiento docente<br />Durante la investigación el docente:</p>\n<p style=\"text-align: justify;\">Orienta la búsqueda de información.<br />Resuelve dudas.<br />Ayuda a clasificar organismos.<br />Supervisa el trabajo cooperativo.<br /> <br />6. Espacio<br />Uso de ordenadores o tabletas con acceso a internet para la investigación colaborativa.</p>\n<p style=\"text-align: justify;\"> 7. Cierre de la sesión (10 minutos)<br />Cada grupo comparte un descubrimiento importante<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s5-omxyabe7n</odePageId>
+  <odeParentPageId>page-mp5pk8s3-qao3gag6t</odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s5-omxyabe7n</odePageId>
+      <odeBlockId>block-1778623310382-rivg8mf59</odeBlockId>
+      <blockName>Construcción de cadenas alimentarias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s5-omxyabe7n</odePageId>
+          <odeBlockId>block-1778623310382-rivg8mf59</odeBlockId>
+          <odeIdeviceId>idevice-1778623310380-kegn2fx9t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Desarrollo de la sesión<br />1. Inicio de la sesión (10 minutos)<br />Recordatorio y motivación<br />El docente recupera lo aprendido en sesiones anteriores y se presenta el concepto de: cadena alimentaria</p>
+<p>2. Explicación de los niveles tróficos (10 minutos)<br />El docente explica los principales niveles tróficos. </p>
+<p>3. Actividad principal: Construcción de cadenas alimentarias (25 minutos)<br />Objetivo: Crear varias cadenas alimentarias identificando correctamente los niveles tróficos.</p>
+<p>Agrupamiento: Trabajo cooperativo en grupos.</p>
+<p>Cada grupo recibe: Imágenes de organismos, tarjetas e información del ecosistema asignado.<br /> <br />Tareas del alumnado<br />A. Crear cadenas alimentarias</p>
+<p>B. Identificar niveles tróficos</p>
+<p> <br />4. Herramienta digital: MindMeister<br />Los estudiantes crean mapas conceptuales</p>
+<p>5. Acompañamiento docente<br />El docente:</p>
+<p>Supervisa las relaciones correctas.<br />Ayuda a identificar errores.<br />Promueve la participación equitativa.<br />Refuerza el concepto de flujo de energía.<br /> <br />6. Espacio: Aula<br /> <br />7. Cierre de la sesión (10 minutos)<br />Cada grupo presenta una de sus cadenas alimentarias</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778623310380-kegn2fx9t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Desarrollo de la sesión<br />1. Inicio de la sesión (10 minutos)<br />Recordatorio y motivación<br />El docente recupera lo aprendido en sesiones anteriores y se presenta el concepto de: cadena alimentaria</p>\n<p>2. Explicación de los niveles tróficos (10 minutos)<br />El docente explica los principales niveles tróficos. </p>\n<p>3. Actividad principal: Construcción de cadenas alimentarias (25 minutos)<br />Objetivo: Crear varias cadenas alimentarias identificando correctamente los niveles tróficos.</p>\n<p>Agrupamiento: Trabajo cooperativo en grupos.</p>\n<p>Cada grupo recibe: Imágenes de organismos, tarjetas e información del ecosistema asignado.<br /> <br />Tareas del alumnado<br />A. Crear cadenas alimentarias</p>\n<p>B. Identificar niveles tróficos</p>\n<p> <br />4. Herramienta digital: MindMeister<br />Los estudiantes crean mapas conceptuales</p>\n<p>5. Acompañamiento docente<br />El docente:</p>\n<p>Supervisa las relaciones correctas.<br />Ayuda a identificar errores.<br />Promueve la participación equitativa.<br />Refuerza el concepto de flujo de energía.<br /> <br />6. Espacio: Aula<br /> <br />7. Cierre de la sesión (10 minutos)<br />Cada grupo presenta una de sus cadenas alimentarias</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s6-tt5yr88ff</odePageId>
+  <odeParentPageId>page-mp5pk8s3-qao3gag6t</odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s6-tt5yr88ff</odePageId>
+      <odeBlockId>block-1778623682996-5o86vpepw</odeBlockId>
+      <blockName>Creación de red trófica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s6-tt5yr88ff</odePageId>
+          <odeBlockId>block-1778623682996-5o86vpepw</odeBlockId>
+          <odeIdeviceId>idevice-1778623682995-0msbojjok</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;">Desarrollo de la sesión</span></p>
+<p>1. Inicio de la sesión (10 minutos)<br /></p>
+<p>Se introduce el concepto de: Red trófica. Explicación guiada <br /><br />2. Actividad principal: Construcción de la red trófica (30 minutos)<br />Objetivo: Integrar varias cadenas alimentarias en una red trófica completa.</p>
+<p>Agrupamiento: Trabajo en grupos cooperativos.</p>
+<p>Herramientas digitales: Canva o Genially</p>
+<p>El docente:</p>
+<p>Orienta la organización de la red.<br />Favorece el pensamiento crítico.<br />Ayuda a interpretar conexiones ecológicas.<br />Promueve la creatividad y colaboración.<br /> <br />Espacio: Aula</p>
+<p>3. Cierre de la sesión (10 minutos)<br />Cada grupo presenta su red trófica </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778623682995-0msbojjok","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\">Desarrollo de la sesión</span></p>\n<p>1. Inicio de la sesión (10 minutos)<br /></p>\n<p>Se introduce el concepto de: Red trófica. Explicación guiada <br /><br />2. Actividad principal: Construcción de la red trófica (30 minutos)<br />Objetivo: Integrar varias cadenas alimentarias en una red trófica completa.</p>\n<p>Agrupamiento: Trabajo en grupos cooperativos.</p>\n<p>Herramientas digitales: Canva o Genially</p>\n<p>El docente:</p>\n<p>Orienta la organización de la red.<br />Favorece el pensamiento crítico.<br />Ayuda a interpretar conexiones ecológicas.<br />Promueve la creatividad y colaboración.<br /> <br />Espacio: Aula</p>\n<p>3. Cierre de la sesión (10 minutos)<br />Cada grupo presenta su red trófica </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s7-at033xtwl</odePageId>
+  <odeParentPageId>page-mp5pk8s3-qao3gag6t</odeParentPageId>
+  <pageName>Sesión 5</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s7-at033xtwl</odePageId>
+      <odeBlockId>block-1778624080026-jpkl9rzz5</odeBlockId>
+      <blockName>Presentación y explicación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s7-at033xtwl</odePageId>
+          <odeBlockId>block-1778624080026-jpkl9rzz5</odeBlockId>
+          <odeIdeviceId>idevice-1778624080023-axzvuixgd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;">Desarrollo de la sesión</span></p>
+<p><br />1. Inicio de la sesión (10 minutos)<br />El docente recuerda el trabajo realizado en sesiones anteriores</p>
+<p>2. Preparación de la exposición (15 minutos) <br /><br />Cada grupo deberá preparar:</p>
+<p>A. Presentación visual<br /><br />B. Explicación oral<br /> <br />3. Herramienta digital: Uso de Google Slides<br /> <br />4. Presentaciones grupales (25 minutos): Cada equipo expone su trabajo al resto de la clase.</p>
+<p>5. Participación del grupo-clase<br />Mientras escuchan las exposiciones, los compañeros realizan preguntas.<br /></p>
+<p>6. Espacio: Aula<br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778624080023-axzvuixgd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\">Desarrollo de la sesión</span></p>\n<p><br />1. Inicio de la sesión (10 minutos)<br />El docente recuerda el trabajo realizado en sesiones anteriores</p>\n<p>2. Preparación de la exposición (15 minutos) <br /><br />Cada grupo deberá preparar:</p>\n<p>A. Presentación visual<br /><br />B. Explicación oral<br /> <br />3. Herramienta digital: Uso de Google Slides<br /> <br />4. Presentaciones grupales (25 minutos): Cada equipo expone su trabajo al resto de la clase.</p>\n<p>5. Participación del grupo-clase<br />Mientras escuchan las exposiciones, los compañeros realizan preguntas.<br /></p>\n<p>6. Espacio: Aula<br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s7-wcuxn970c</odePageId>
+  <odeParentPageId>page-mp5pk8s3-qao3gag6t</odeParentPageId>
+  <pageName>Sesión 6</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s7-wcuxn970c</odePageId>
+      <odeBlockId>block-1778624341913-nx8knnle6</odeBlockId>
+      <blockName>Impacto y reflexión</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s7-wcuxn970c</odePageId>
+          <odeBlockId>block-1778624341913-nx8knnle6</odeBlockId>
+          <odeIdeviceId>idevice-1778624341912-x9e224m8o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;">Desarrollo de la sesión</span></p>
+<p>1. Actividad individual de análisis (15 minutos)<br />Objetivo: Analizar el impacto ecológico de la desaparición de una especie.</p>
+<p>Tarea del alumnado: Cada estudiante elige una especie de la red trófica trabajada y responde:</p>
+<p>¿Qué función cumple?<br />¿Qué organismos dependen de ella?<br />¿Qué ocurriría si desaparece?<br />¿Cómo afectaría al ecosistema?<br /> <br />Reflexión breve o esquema de consecuencias ecológicas.</p>
+<p>2. Debate grupal (20 minutos)<br />Los estudiantes comparten sus análisis y reflexionan sobre:</p>
+<p>Extinción de especies.<br />Contaminación.<br />Cambio climático.<br />Acción humana en los ecosistemas.<br /> <br />Espacio: Aula<br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778624341912-x9e224m8o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\">Desarrollo de la sesión</span></p>\n<p>1. Actividad individual de análisis (15 minutos)<br />Objetivo: Analizar el impacto ecológico de la desaparición de una especie.</p>\n<p>Tarea del alumnado: Cada estudiante elige una especie de la red trófica trabajada y responde:</p>\n<p>¿Qué función cumple?<br />¿Qué organismos dependen de ella?<br />¿Qué ocurriría si desaparece?<br />¿Cómo afectaría al ecosistema?<br /> <br />Reflexión breve o esquema de consecuencias ecológicas.</p>\n<p>2. Debate grupal (20 minutos)<br />Los estudiantes comparten sus análisis y reflexionan sobre:</p>\n<p>Extinción de especies.<br />Contaminación.<br />Cambio climático.<br />Acción humana en los ecosistemas.<br /> <br />Espacio: Aula<br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s8-p029grp8s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUAMOS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUAMOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUAMOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s8-p029grp8s</odePageId>
+      <odeBlockId>block-1778672687310-wt218241g</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s8-p029grp8s</odePageId>
+          <odeBlockId>block-1778672687310-wt218241g</odeBlockId>
+          <odeIdeviceId>idevice-1778672687308-btluxx67k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el apartado de <em>instrumentos de evaluación</em> se muestran dos de los instrumentos utilizados en este proyecto, además, estructuramos a continuación las sesiones indicando concretamente cómo van a ser evaluadas.  </p>
+<p>En la <span style="text-decoration: underline;"><strong>sesión 1</strong></span> los instrumentos de evaluación son: </p>
+<ul>
+<li>Observación directa.</li>
+<li>Cuestionario inicial</li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Sesión 2</span>:</strong></p>
+<p>- Criterios de evaluación:</p>
+<p>Busca información relevante.<br />Identifica correctamente tipos de organismos.<br />Comprende relaciones alimentarias.<br />Participa activamente en el grupo.<br />Organiza información de forma clara.</p>
+<p>- Instrumentos de evaluación</p>
+<p>Observación directa.<br />Rúbrica de trabajo cooperativo.<br /></p>
+<p><span style="text-decoration: underline;"><strong>Sesión 3: </strong></span></p>
+<p>- Criterios de evaluación</p>
+<p>Construye correctamente cadenas alimentarias.<br />Identifica niveles tróficos.<br />Relaciona organismos adecuadamente.<br />Participa en el trabajo grupal.</p>
+<p>- Instrumentos</p>
+<p>Observación directa.<br />Rúbrica del mapa conceptual.<br /><br /></p>
+<p><strong><span style="text-decoration: underline;">Sesión 4:</span> </strong></p>
+<p>- Criterios de evaluación</p>
+<p>Relaciona correctamente varias cadenas alimentarias.<br />Interpreta el flujo de energía.<br />Construye una red trófica coherente.<br />Trabaja de forma colaborativa.<br /> <br />- Instrumentos</p>
+<p>Rúbrica de trabajo grupal.<br />Observación directa.<br />Evaluación del producto digital mediante rúbrica</p>
+<p><span style="text-decoration: underline;"><strong>Sesión 5: </strong></span></p>
+<p>- Criterios de evaluación</p>
+<p>Explica correctamente la red trófica.<br />Utiliza vocabulario científico adecuado.<br />Participa en la exposición oral.<br />Interpreta relaciones ecológicas.<br />Presenta información organizada y clara.<br /> <br />- Instrumentos<br /></p>
+<p>Rúbrica de exposición oral.<br />Observación directa.<br />Evaluación de la presentación digital mediante rúbrica.</p>
+<p><span style="text-decoration: underline;"><strong>Sesión 6:</strong></span></p>
+<p>- Criterios de evaluación</p>
+<p>Analiza consecuencias ecológicas.<br />Argumenta ideas de forma razonada.<br />Participa respetuosamente en el debate.<br />Relaciona contenidos con situaciones reales.<br /> <br />- Instrumentos</p>
+<p>Observación directa.<br />Formulario digital.<br />Autoevaluación.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778672687308-btluxx67k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el apartado de <em>instrumentos de evaluación</em> se muestran dos de los instrumentos utilizados en este proyecto, además, estructuramos a continuación las sesiones indicando concretamente cómo van a ser evaluadas.  </p>\n<p>En la <span style=\"text-decoration: underline;\"><strong>sesión 1</strong></span> los instrumentos de evaluación son: </p>\n<ul>\n<li>Observación directa.</li>\n<li>Cuestionario inicial</li>\n</ul>\n<p><strong><span style=\"text-decoration: underline;\">Sesión 2</span>:</strong></p>\n<p>- Criterios de evaluación:</p>\n<p>Busca información relevante.<br />Identifica correctamente tipos de organismos.<br />Comprende relaciones alimentarias.<br />Participa activamente en el grupo.<br />Organiza información de forma clara.</p>\n<p>- Instrumentos de evaluación</p>\n<p>Observación directa.<br />Rúbrica de trabajo cooperativo.<br /></p>\n<p><span style=\"text-decoration: underline;\"><strong>Sesión 3: </strong></span></p>\n<p>- Criterios de evaluación</p>\n<p>Construye correctamente cadenas alimentarias.<br />Identifica niveles tróficos.<br />Relaciona organismos adecuadamente.<br />Participa en el trabajo grupal.</p>\n<p>- Instrumentos</p>\n<p>Observación directa.<br />Rúbrica del mapa conceptual.<br /><br /></p>\n<p><strong><span style=\"text-decoration: underline;\">Sesión 4:</span> </strong></p>\n<p>- Criterios de evaluación</p>\n<p>Relaciona correctamente varias cadenas alimentarias.<br />Interpreta el flujo de energía.<br />Construye una red trófica coherente.<br />Trabaja de forma colaborativa.<br /> <br />- Instrumentos</p>\n<p>Rúbrica de trabajo grupal.<br />Observación directa.<br />Evaluación del producto digital mediante rúbrica</p>\n<p><span style=\"text-decoration: underline;\"><strong>Sesión 5: </strong></span></p>\n<p>- Criterios de evaluación</p>\n<p>Explica correctamente la red trófica.<br />Utiliza vocabulario científico adecuado.<br />Participa en la exposición oral.<br />Interpreta relaciones ecológicas.<br />Presenta información organizada y clara.<br /> <br />- Instrumentos<br /></p>\n<p>Rúbrica de exposición oral.<br />Observación directa.<br />Evaluación de la presentación digital mediante rúbrica.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Sesión 6:</strong></span></p>\n<p>- Criterios de evaluación</p>\n<p>Analiza consecuencias ecológicas.<br />Argumenta ideas de forma razonada.<br />Participa respetuosamente en el debate.<br />Relaciona contenidos con situaciones reales.<br /> <br />- Instrumentos</p>\n<p>Observación directa.<br />Formulario digital.<br />Autoevaluación.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5pk8s8-2a87nd2vc</odePageId>
+  <odeParentPageId>page-mp5pk8s8-p029grp8s</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s8-2a87nd2vc</odePageId>
+      <odeBlockId>block-1778759140424-0lsrknmst</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s8-2a87nd2vc</odePageId>
+          <odeBlockId>block-1778759140424-0lsrknmst</odeBlockId>
+          <odeIdeviceId>idevice-1778759140421-545xf20wp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Proyecto realizado por: M.ª Ángeles Vacas Rodríguez</p>
+<p>Este proyecto está diseñado para el curso de Competencia Digital B2.</p>
+<p>Licencia de uso: este material se distribuye bajo la licencia Creative Commons CC-BY-SA. <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778759140421-545xf20wp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Proyecto realizado por: M.ª Ángeles Vacas Rodríguez</p>\n<p>Este proyecto está diseñado para el curso de Competencia Digital B2.</p>\n<p>Licencia de uso: este material se distribuye bajo la licencia Creative Commons CC-BY-SA. <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5pk8s8-2a87nd2vc</odePageId>
+      <odeBlockId>block-1778759587705-skvaflehx</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5pk8s8-2a87nd2vc</odePageId>
+          <odeBlockId>block-1778759587705-skvaflehx</odeBlockId>
+          <odeIdeviceId>idevice-1778759587702-87649uevv</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Aprendemos las redes tróficas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
